@@ -1,0 +1,4 @@
+[Adblock Plus 3.17.1]
+
+! Twitter いまどうしてる？
+twitter.com##div[aria-label^="タイムライン: トレンド"]
